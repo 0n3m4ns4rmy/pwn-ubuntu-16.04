@@ -1,0 +1,1 @@
+This file is shared between the docker container and the host and so is this entire directory.
